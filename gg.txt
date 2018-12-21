@@ -1,2 +1,1 @@
-how are u?ff
-llllllllllsdksjdskdjsk
+ modifies the title appearance using one or more name-value pair arguments. For example, 'FontSize',12 sets the font size to 12 points. Specify name-value pair arguments after all other input arguments. Modifying the title appearance is not supported for all types of charts.
